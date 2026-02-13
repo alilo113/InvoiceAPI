@@ -1,0 +1,1 @@
+INTERNAL_SECRET = "super-secret-value-change-this"
